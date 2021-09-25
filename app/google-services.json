@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "814700747634",
+    "firebase_url": "https://voip-fre0025.firebaseio.com",
+    "project_id": "voip-fre0025",
+    "storage_bucket": "voip-fre0025.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814700747634:android:04da1b542ed53162dfdbeb",
+        "android_client_info": {
+          "package_name": "com.fre0025.notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814700747634-usigidb6uv18538tu8agt3atam68klue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRouZdn4KbbOYdLKdFHKJoUpRYnyR2GOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814700747634-usigidb6uv18538tu8agt3atam68klue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

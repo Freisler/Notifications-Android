@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notifications</string>
+    <string name="fcm_token">FCM Token: %s</string>
+    <string name="fcm_channel">FCM</string>
+    <string name="tokenGenerated">Token Generated: </string>
+    <string name="tokenFailed">Token Generation failed</string>
+    <string name="title_activity_incoming_vo_i_p_call">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
